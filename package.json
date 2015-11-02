@@ -1,0 +1,35 @@
+{
+  "name": "n600-cli",
+  "version": "1.0.0",
+  "description": "TP-Link N600 Wireless Dual Band Router CLI lets you execute/toggle some common settings",
+  "main": "access.js",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta3",
+    "phantomjs": "^1.9.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyharvs/n600-cli.git"
+  },
+  "keywords": [
+    "tp-link",
+    "n600",
+    "wireless",
+    "router",
+    "cli",
+    "casperjs",
+    "phantomjs",
+    "node",
+    "nodejs"
+  ],
+  "author": "Harvard Young <harvard.young@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyharvs/n600-cli/issues"
+  },
+  "homepage": "https://github.com/heyharvs/n600-cli#readme"
+}
